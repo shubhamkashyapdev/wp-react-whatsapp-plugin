@@ -37,3 +37,5 @@ function load_scripts()
 }
 
 require_once WPRW_PATH . '/classes/class-create-admin-menu.php';
+
+require_once WPRW_PATH . '/classes/class-create-settings-route.php';
